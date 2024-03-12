@@ -1,10 +1,10 @@
 <h1> 👋 Hi, I’m @imertak </h1>
 <h2>A passionate Junior Computer Engineering Student from Istanbul, Turkey</h2>
-🌱 I’m currently learning Spring Boot and ReactJS
+🌱 I’m currently learning <strong>Spring Boot</strong> and <strong>ReactJS</strong>
 <br></br>
-⭐ My goal is becoming a Full-Stack Developer.
+⭐ My goal is becoming a <strong>Full-Stack Developer</strong>.
 <br></br>
-📫 How to reach me imertakpinar0@gmail.com
+📫 How to reach me <strong>imertakpinar0@gmail.com</strong>
 <br></br>
 
 <!---
