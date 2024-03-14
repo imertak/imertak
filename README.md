@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @imertak </h1>
+<h1> 👋 Hi, I’m İsmail Mert Akpınar </h1>
 <h2>A passionate Junior Computer Engineering Student from Istanbul, Turkey</h2>
 🌱 I’m currently learning <strong>Spring Boot</strong> and <strong>ReactJS</strong>
 <br></br>
